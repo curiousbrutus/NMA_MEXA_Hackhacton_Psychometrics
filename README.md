@@ -29,3 +29,12 @@ Python: Main programming language for data analysis, model integration, and API 
 Pandas, NumPy, Matplotlib: Data handling and visualization tools.
 Google Cloud APIs: Integration with Google Health Connect (formerly Google Fit) for wearable data.
 
+
+* To run:
+
+pip install streamlit pandas matplotlib google-generativeai
+
+streamlit run app.py
+
+
+
